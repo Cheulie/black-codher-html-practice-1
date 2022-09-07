@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+    <head>
+        <meta charset="utf-8">
+        <meta name="Jodeci" content="music">
+    </head>
+    <title>Reporting side effects </title>
+    <style>
+
+
+    </style>
+        <body>
+            <h1> Yellow card scheme</h1>
+            <h2> Making medicines and Medical Devices safer</h2>
+            <p1> Incidents, defective or falsified (fake) products to the Medicines and Healthcare products Regulatory Agency to ensure safe and effective use.</p1>
+            <p1> Very rare side effects of the COVID 19 vaccine are:</p1>
+            <ul>
+                <li> Allergic reactions</li>
+                <li> Blood clotting </li>
+                <li> Heart inflammation </li>
+            </ul>
+
+            <p1> You you suffer from any of these symptoms please contact 111 immediately.</p1>
+            </body>
+
+            <h2> You can also contact regarding any side effects using the form below</h2>
+            <form on submit="submitForm()">
+                <label for="name">Name</label>
+                <input type="text"
+           
+                   
