@@ -1,0 +1,39 @@
+@keyframes rainbow {
+    0% {
+        background-color: red;
+    }
+    20% {
+        background-color: orange;
+    }
+    40% {
+        background-color: yellow;
+    }
+    60% {
+        background-color: green;
+    }
+    80% {
+    background-color: blue;
+    }
+    100% {
+    background-color:purple;
+    }
+    }
+
+html {
+    background-color: red;
+    animation-name: rainbow;
+    animation-duration: 5s;
+    animation-iteration-count: infinity;
+}
+.square {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    margin: 0 auto;
+    border-radius:50%;
+    background-color: red;
+    animation-name: rainbow;
+    animation-duration: 5s;
+    animation-iteration-count: infinity;
+}
+
